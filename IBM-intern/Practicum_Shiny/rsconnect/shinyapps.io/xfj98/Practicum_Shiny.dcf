@@ -1,0 +1,12 @@
+name: Practicum_Shiny
+title: Practicum_Shiny
+username:
+account: xfj98
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2190246
+bundleId: 3068421
+url: https://xfj98.shinyapps.io/Practicum_Shiny/
+when: 1587932889.97749
+asMultiple: FALSE
+asStatic: FALSE
